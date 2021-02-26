@@ -12,7 +12,7 @@ Deploy this Node Express Server easily with [Northflank](https://www.northflank.
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
-[https://port--node-express-demo--examples--nort-xjjq.code.run](https://port--node-express-demo--examples--nort-xjjq.code.run)
+[https://example--node-express--examples--nort-kcwl.code.run](https://example--node-express--examples--nort-kcwl.code.run)
 
 ## About Express
 
